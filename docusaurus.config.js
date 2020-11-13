@@ -38,6 +38,14 @@ module.exports = {
               label: 'Documentation',
               to: 'docs/',
             },
+            {
+              label: 'Core Concepts',
+              to: 'docs/concepts/Only CSS'
+            },
+            {
+              label: 'Features',
+              to: 'docs/features/Variables & Constants'
+            }
           ],
         },
         {
