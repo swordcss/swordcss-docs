@@ -1,3 +1,5 @@
+This repo no longer contains the maintained documentation of SwordCSS, checkout [swordcss/swordcss-docs2](https://github.com/swordcss/swordcss-docs2) instead.
+
 # Website
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
